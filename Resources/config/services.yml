@@ -1,0 +1,4 @@
+services:
+#    fob_hello_snappy.example:
+#        class: FOB\HelloSnappyBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

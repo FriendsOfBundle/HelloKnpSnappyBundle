@@ -1,0 +1,3 @@
+fob_hello_snappy_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: FOBHelloSnappyBundle:Default:index }
